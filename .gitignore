@@ -19,3 +19,9 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+junk
+hold
+
+.DS_Store
+.idea
